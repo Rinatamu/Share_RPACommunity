@@ -99,8 +99,8 @@ https://powerapps.microsoft.com/ja-jp/communityplan/
 ※写真はiOS版のものですが、Androidでも基本的には同じです。
 
 1. App Store や Google Store にて Power Automate を検索します。
-![](pasteimage/2020-07-25-12-31-37.png)
 
+![](pasteimage/2020-07-25-12-31-37.png)
 
 2. Power Automate が表示されるので、インストールを行います。
 
