@@ -1,6 +1,7 @@
 Power Automate Hands On
 ---
 
+
 # 当ハンズオンで行うこと
 
 当ハンズオンでは、Power Automate を使用して、撮影した写真の顔から様々な情報を取得するフローを作成しています。
@@ -9,6 +10,28 @@ Power Automate Hands On
 
 * Power Automate をインストール可能なスマートフォン
 * Microsoft アカウント
+
+
+# 目次
+<!-- TOC -->
+
+- [当ハンズオンで行うこと](#当ハンズオンで行うこと)
+- [事前に必要なもの](#事前に必要なもの)
+- [目次](#目次)
+- [1. 環境準備/ログイン](#1-環境準備ログイン)
+    - [1.1 Microsoft 365 developer program への参加](#11-microsoft-365-developer-program-への参加)
+    - [1.2 Azure 環境の準備](#12-azure-環境の準備)
+    - [1.3 Power Apps Community Plan のサインアップ](#13-power-apps-community-plan-のサインアップ)
+    - [1.4 Power Automate アプリのインストール](#14-power-automate-アプリのインストール)
+- [2. Azure側の準備](#2-azure側の準備)
+    - [2.1. リソースグループの作成](#21-リソースグループの作成)
+    - [2.2. ストレージアカウントの作成](#22-ストレージアカウントの作成)
+    - [2.3. Face APIの作成](#23-face-apiの作成)
+    - [2.4 各種リソースの準備](#24-各種リソースの準備)
+- [3.Power Automate の作成](#3power-automate-の作成)
+
+<!-- /TOC -->
+
 
 # 1. 環境準備/ログイン
 
