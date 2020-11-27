@@ -5,6 +5,8 @@ RPA Community のハンズオン資料一覧です
 |:--|:--|:--|
 |2020/07/28|現在位置の天気をツイートする|[ハンズオン資料](./202007_PowerAutomate_Handson/HandsOn.md)|
 |2020/09/30|Face APIを使ったフローを作成する|[ハンズオン資料](./202009_PowerAutomate_Handson/HandsOn.md)|
+|2020/11/27|勤怠報告ボタンを作成する|[ハンズオン資料](./202011_PowerAutomate_Handson/HandsOn.md)|
+
 
 本資料については、再配布可能な資料ですので、社内やコミュニティなどにぜひご活用ください。<br>
 
